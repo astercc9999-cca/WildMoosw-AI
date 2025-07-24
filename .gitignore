@@ -1,0 +1,17 @@
+# Cocos Creator
+.local
+library/
+temp/
+build/
+settings/
+packages/
+jsb-link/
+jsb-adapter/
+remote/
+caches/
+log/
+*.zip
+*.exe
+*.apk
+*.ipa
+*.dSYM
